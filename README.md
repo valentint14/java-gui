@@ -1,7 +1,7 @@
 # java-gui
 ## Overview
 
-A fairly simple JFrame application which:
+A simple JFrame application which:
 - has a menu (Options) with 2 buttons, a set of 5 buttons, 1 label and 1 textfield
 - imports a set of names from a file
 - the Init button  modify the names of the 5 buttons with the values from file

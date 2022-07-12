@@ -1,4 +1,3 @@
-# java-gui
 ## Overview
 
 A simple JFrame application which:
